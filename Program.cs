@@ -2,7 +2,7 @@
 //sem9 c# test 64 Задайте значение N. Напишите программу, которая найдет кол-во цифр в числе N рекурсивным методом.
 
 /*
-int NumbOfDigRecur(int a)
+int NumbOfDigRecur(int a) 
 {
     if (a >= 10) 
     {
@@ -36,3 +36,4 @@ int N = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine(ShowNums(M,N));
 */
+
